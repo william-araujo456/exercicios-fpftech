@@ -2,7 +2,7 @@
 
 def caixa_eletronico():
 
-    saldo = 5000
+    saldo = 5000 # Usuário começa com 5000 reais
 
     while True:
         print('===== CAIXA ELETRÔNICO - MAZE BANK =====')
